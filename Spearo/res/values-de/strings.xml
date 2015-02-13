@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Spearo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="action_clearroster">Leeren</string>
+    <string name="action_rosterorder">Quotierung</string>
+    <string name="action_newgroup">Neue Gruppe</string>
+    <string name="action_newmember">Neues Mitglied</string>
+    <string name="menu_edit">Bearbeiten</string>
+    <string name="menu_delete">Löschen</string>
+    <string name="title_activity_group_edit">Gruppe bearbeiten</string>
+    <string name="title_activity_roster">Redeliste</string>
+	<string-array name="rosterorder_items">
+        <item>Keine</item>
+        <item>Geschlechterquotierung</item>
+        <item>Balanciert</item>
+    </string-array>
+    <string name="save">Speichern</string>
+    <string name="add">Hinzufügen</string>
+    <string name="create">Erstellen</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="gender_male">Männl.</string>
+    <string name="gender_female">Weibl.</string>
+    <string name="group_name">Name der Gruppe:</string>
+    <string name="group_name_hint">Unbenannte Gruppe</string>
+    <string name="new_group_added" formatted="false">Neue Gruppe "%s" hinzugefügt.</string>
+    <string name="new_group_name_required">Gruppenname wird benötigt.</string>
+    <string name="new_groupmember_name">Name des neuen Gruppenmitglieds:</string>
+    <string name="new_groupmember_gender">Geschlecht:</string>
+    <string name="new_groupmember_added" formatted="false">Neues Mitglied "%s" zur Gruppe "%s" hinzugefügt.</string>
+    <string name="new_groupmember_name_required" formatted="false">Name des neuen Mitglieds für Gruppe "%s" wird benötigt.</string>
+    <string name="group_is_empty" formatted="false">Gruppe "%s" hat keine Mitglieder!</string>
+    <string name="speech_by_person" formatted="false">Redebeitrag von %s</string>
+    <string name="group_members_none" formatted="false">Keine Mitglieder</string>
+    <string name="group_members_two" formatted="false">%s und %s</string>
+    <string name="group_members_more" formatted="false">%s, %s und %d weitereTheme.Light.DarkActionBarTheme.Light.DarkActionBarTheme.AppCompat.Light.DarkActionBarTheme.AppCompat.Light.DarkActionBarTheme.AppCompat.Light.DarkActionBar</string> 
+</resources>

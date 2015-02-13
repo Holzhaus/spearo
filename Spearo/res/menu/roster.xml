@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.github.holzhaus.spearo.RosterActivity" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never"/>
+    
+     <item
+	    android:id="@+id/rosterorder_spinner"
+	    app:showAsAction="ifRoom"
+	    android:title="@string/action_rosterorder"
+    	app:actionViewClass="android.widget.Spinner" />
+     
+     <item
+	    android:id="@+id/action_clearroster"
+	    app:showAsAction="ifRoom"
+	    android:icon="@drawable/ic_action_discard"
+	    android:title="@string/action_clearroster" />
+
+</menu>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Spearo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_clearroster">Clear</string>
+    <string name="action_rosterorder">Order</string>
+    <string name="action_newgroup">New Group</string>
+    <string name="action_newmember">New Member</string>
+    <string name="menu_edit">Edit</string>
+    <string name="menu_delete">Delete</string>
+    <string name="title_activity_group_edit">Edit Group</string>
+    <string name="title_activity_roster">Roster</string>
+	<string-array name="rosterorder_items">
+        <item>None</item>
+        <item>Gender-quoted</item>
+        <item>Balanced</item>
+    </string-array>
+    <string-array name="rosterorder_itemids">
+        <item>NONE</item>
+        <item>GENDERQUOTED</item>
+        <item>BALANCED</item>
+    </string-array>
+    <string name="save">Save</string>
+    <string name="add">Add</string>
+    <string name="create">Create</string>
+    <string name="cancel">Cancel</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+    <string name="group_name">Group name:</string>
+    <string name="group_name_hint">Unnamed Group</string>
+    <string name="new_group_added" formatted="false">New group "%s" added.</string>
+    <string name="new_group_name_required">Name required for new group.</string>
+    <string name="new_groupmember_name">Name of the new group member:</string>
+    <string name="new_groupmember_gender">Gender:</string>
+    <string name="new_groupmember_added" formatted="false">New member "%s" added to group "%s".</string>
+    <string name="new_groupmember_name_required" formatted="false">Name required for new member of group "%s".</string>
+    <string name="group_is_empty" formatted="false">Group "%s" has no members!</string>
+    <string name="speech_by_person" formatted="false">Speech by %s</string>
+    <string name="group_members_none" formatted="false">No members</string>
+    <string name="group_members_two" formatted="false">%s and %s</string>
+    <string name="group_members_more" formatted="false">%s, %s and %d more</string>
+</resources>
